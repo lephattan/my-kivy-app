@@ -1,0 +1,9 @@
+*.log
+*env/
+*/__pycache__/*
+test*.*
+.vscode/
+*.pyc
+build/
+dist/
+*.spec
